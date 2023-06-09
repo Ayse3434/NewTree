@@ -2,6 +2,6 @@ package gitHub;
 
 public class Test3 {
     public static void main(String[] args) {
-        System.out.println("Burasi Test3 .");
+        System.out.println("Burasi Test3 . yeni degisiklik.");
     }
 }
